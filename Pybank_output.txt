@@ -1,1 +1,0 @@
-"('The total profit is $ 22564198', 'The average change is $ 262374')","('The total profit is $ 22564198', 'The average change is $ 262374')","('The greatest increase  $ 1141840', 'The greatest decrese is $ -1194133')"
