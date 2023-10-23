@@ -8,8 +8,7 @@ The changes in "Profit/Losses" over the entire period, and the average of these 
 The greatest increase in profits over the entire period
 The greatest decrease in profits over the entire period
 
-For the election poll data, the following values were retrieved from the script:
-
+#For the election poll data, the following values were retrieved from the script:
 Total number of votes cast
 Complete list of candidates who received votes
 Percentage of votes each candidate won
