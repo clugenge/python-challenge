@@ -1,5 +1,5 @@
 # python-challenge
-#The purpose of this project is to create a python script that helps analyze the data of two datsets: budget data & poll data.
+#The purpose of this project is to create a python script that helps analyze the data of two datsets: budget data & election data.
 
 #For the bank budget data, values retrieved from the script:
 Total number of months included in the dataset
