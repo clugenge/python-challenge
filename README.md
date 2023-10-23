@@ -15,4 +15,4 @@ Percentage of votes each candidate won,
 Total number of votes each candidate won, and
 Winner of each election based on popular vote.
 
-#I did get a lot of help in writing the code. In summary I was able to use the learnt skills of how to import modules like csv, how to read and write files in various formats and how to store content in variables and lists. 
+#I did get a lot of help in writing the code from ASK BSC. In summary I was able to use the learnt skills of how to import modules like csv, how to read and write files in various formats and how to store content in variables and lists. 
